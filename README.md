@@ -40,7 +40,7 @@ I’m a **Senior Technology Consultant** specializing in **Data Analytics and En
 
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/daniel-iyiola/)  
-🐦 [Twitter/X](https://twitter.com/iyioladaniel2) 
+🐦 [Twitter/X](https://twitter.com/iyioladaniel2)
 📂 [Portfolio](still-in-progress)  
 
 ## 📊 GitHub Stats  
